@@ -14,8 +14,7 @@ html {
 
   .bear {
     position: absolute;
-    top: 82px;
-    right: 4%;
-    width: auto;
+    top: 800px;
+    right: 0;
   }
 }
